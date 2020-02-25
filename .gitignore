@@ -1,0 +1,7 @@
+.idea/
+.ipynb_checkpoints/
+venv*/
+*.bak
+*.jpg
+*.png
+*.pdf
